@@ -1,0 +1,10 @@
+return {
+    ["Myriad Artifact Law"] = {cost = -5, field = "BackStory1", value = 200045},
+    ["Manual Guard"] = {cost = 0, field = "Feature1", value = "ManualGuard"},
+    ["Manual Savior"] = {cost = 0, field = "Feature2", value = "ManualSavior"},
+    ["Heavenly Physique"] = {cost = 4, field = "Feature3", value = "HeavenlyPhysique"},
+    ["Fast Learning"] = {cost = 3, field = "Feature4", value = "FastLearning"},
+    ["Resilient"] = {cost = 2, field = "Feature5", value = "Resilient"},
+    ["Keen Eye"] = {cost = 2, field = "Experience1", value = "KeenEye"},
+    -- Acrescente mais perks conforme quiser!
+}

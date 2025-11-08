@@ -1,0 +1,8 @@
+{
+  "Name": "CultivatorPerksMod",
+  "DisplayName": "Cultivator Perks Selection",
+  "Desc": "Escolha perks/talentos iniciais customizados para cultivador, com sistema de pontos.",
+  "Author": "sussybakalover",
+  "UIPackage": "",
+  "Dependencies": null
+}
